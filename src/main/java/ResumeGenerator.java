@@ -61,7 +61,7 @@ public class ResumeGenerator {
 
             // Eğitim Bilgileri
             document.add(new Paragraph("\nEĞİTİM BİLGİLERİ").setBold().setFontSize(14));
-            document.add(new Paragraph("Kırklareli Üniversitesi - Yazılım Mühendisliği (2025 - Devam Ediyor)"));
+            document.add(new Paragraph("Kırklareli Üniversitesi - Yazılım Mühendisliği (2026 - Devam Ediyor)"));
 
             // 3 Hayali İş Deneyimi
             document.add(new Paragraph("\nİŞ DENEYİMİ").setBold().setFontSize(14));
